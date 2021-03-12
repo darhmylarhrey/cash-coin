@@ -1,0 +1,8 @@
+{
+  "name": "CashCoin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cfe16ab3"
+}
